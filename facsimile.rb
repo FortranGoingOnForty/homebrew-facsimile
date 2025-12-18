@@ -2,7 +2,7 @@ class Facsimile < Formula
   desc "Terminal text editor written in Fortran with VSCode-style keybindings"
   homepage "https://github.com/FortranGoingOnForty/facsimile"
   url "https://github.com/FortranGoingOnForty/facsimile/archive/refs/tags/v0.9.4.tar.gz"
-  sha256 "3703704be807c1546766d083e3551baf0a186c3a4e8170ae418dfd3cd82bf6cf"
+  sha256 "7925adb56a4f4dc032b4e8af3fd41610f5cb9821fdc5fc1c6eb6b75631736c1d"
   license "MIT"
   head "https://github.com/FortranGoingOnForty/facsimile.git", branch: "trunk"
 
